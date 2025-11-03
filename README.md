@@ -1,4 +1,4 @@
-# Consensus Platform
+# Consensus Platform - HACKATHON BASEL 2025
 
 A responsive web platform for collaborative decision-making with role-based access control, AI content moderation, and consensus clustering.
 
